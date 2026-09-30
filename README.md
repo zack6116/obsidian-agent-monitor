@@ -87,7 +87,17 @@ Release tags must equal the version in `manifest.json` (for example `1.0.3`, wit
 - [GitHub issues](https://github.com/zackzhangkai/obsidian-agent-monitor/issues)
 - X: [@kaiz_amm](https://x.com/kaiz_amm)
 
-Additional community contact details are pending explicit authorization for public distribution.
+- 个人微信：`zack6116`
+
+### 个人微信二维码
+
+![个人微信二维码](images/wechat-contact.png)
+
+### AI 学习交流圈
+
+![微信交流群二维码](images/wechat-community.jpg)
+
+当前交流群二维码有效期截至 **2026-10-07**；失效后可添加个人微信索取新二维码。飞书群尚未建立。
 
 ## License
 
