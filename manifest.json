@@ -1,0 +1,10 @@
+{
+  "id": "agent-monitor",
+  "name": "Agent Monitor",
+  "version": "1.0.3",
+  "minAppVersion": "1.13.7",
+  "description": "Monitor local Codex, Claude Code, and WorkBuddy projects, sessions, processes, and services on macOS.",
+  "author": "zackzhangkai",
+  "authorUrl": "https://github.com/zackzhangkai",
+  "isDesktopOnly": true
+}
