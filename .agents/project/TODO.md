@@ -1,5 +1,4 @@
 # Pending
 
-- Build, test and inspect sanitized public screenshot.
-- Publish public GitHub repository and 1.0.3 release.
-- Submit via the current Obsidian Community portal after resolving account access and required policy agreement.
+- User signs in to the Obsidian Community portal and links GitHub; submit through New plugin and complete policy confirmation at action time.
+- Obtain explicit authorization before publicly adding the private WeChat ID and QR images.
