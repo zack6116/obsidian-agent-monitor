@@ -85,7 +85,7 @@ Release tags must equal the version in `manifest.json` (for example `1.0.3`, wit
 ## Support and community / 联系与交流
 
 - [GitHub issues](https://github.com/zackzhangkai/obsidian-agent-monitor/issues)
-- X: [@kaiz_amm](https://x.com/kaiz_amm)
+- X: [@zack6116](https://x.com/zack6116)
 
 - 个人微信：`zack6116`
 
